@@ -1,4 +1,6 @@
-# Principles of Psychology and Neuroscience, First Edition
+---
+title: Principles of Psychology and Neuroscience, 1st Ed
+---
 
 This is a new, somewhat "radical" introductory textbook for *General Psychology and Neuroscience*, based on a small set of core principles that cut across the full spectrum from neuroscience to social psychology.  In short, this is an ambitious attempt to present a unified, principled perspective on the field, akin to what is standard in other fields.
 
