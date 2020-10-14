@@ -31,3 +31,8 @@ The core principles are the **Three C's**
 * **Control:** Above all, the brain seeks control.  Loss of perceived control is an essential element in most *mental disorders*, and many aspects of social psychology are driven by the dynamics of control.  The trajectory of development can be understood in terms of a progression in ability to control the environment and oneself.  Large portions of the brain are devoted to control, and understanding how basic motor control works can help understand higher levels of self-control.  A key element of control is the ability to *predict* what will happen next --- prediction and control are two sides of the same coin.
 
 With just these three principles, we can understand a huge swath of psychology and neuroscience, and do so in a much more connected, coherent manner than the jumble of facts and stories typically presented in standard textbooks.
+
+# GitHub Source
+
+The source for this book is at: [https://github.com/PsychNeuro/ed1](https://github.com/PsychNeuro/ed1)
+
