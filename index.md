@@ -32,6 +32,10 @@ The core principles are the **Three C's**
 
 With just these three principles, we can understand a huge swath of psychology and neuroscience, and do so in a much more connected, coherent manner than the jumble of facts and stories typically presented in standard textbooks.
 
+# Author
+
+[Randall C. O'Reilly](https://ccnlab.org/people/oreilly/) is Professor of Psychology and Computer Science in the Center for Neuroscience at the University of California, Davis.  Internationally recognized as a founder of the field of Computational Cognitive Neuroscience, Dr. O’Reilly develops large-scale systems-neuroscience computational models of learning, memory, and motivated cognitive control, to learn how neurons give rise to human cognitive function and to inform our understanding of brain-based disorders such as schizophrenia and Parkinson’s disease.
+
 # GitHub Source
 
 The source for this book is at: [https://github.com/PsychNeuro/ed1](https://github.com/PsychNeuro/ed1)
