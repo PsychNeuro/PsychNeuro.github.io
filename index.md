@@ -20,6 +20,10 @@ Please use the following links to download the formatted version of the book:
 
 * [HTML](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.html) --- single big HTML file, readable in your browser.
 
+# Lecture Videos
+
+Recorded lectures for this course are available on this [YouTube Playlist](https://www.youtube.com/playlist?list=PLu02O8xRZn7zcNG3kaEWysHUeYa9vwhvj).  Here a [Course Syllabus](https://ccnlab.org/teaching/genpsych/).
+
 # The Three-C Principles
 
 The core principles are the **Three C's**
