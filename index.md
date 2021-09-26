@@ -8,7 +8,7 @@ The advantage to the student is that it is consistent, coherent, and concise (~2
 
 # Formats
 
-Please use the following links to download the formatted version of the book (v1.1.0, updated Sep 26, 2021):
+Please use the following links to download the formatted version of the book (v1.1.1, updated Sep 26, 2021):
 
 * [PDF](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.pdf) --- best for printing
 
